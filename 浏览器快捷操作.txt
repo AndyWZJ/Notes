@@ -1,0 +1,54 @@
+Backspace键：返回到前页；
+Ctrl+O：打开新的网页或活页夹；
+Ctrl+N：打开新的浏览器窗口；
+Shift+Tab：在网页的下一页和前一页之间转换；
+F5：更新当前页；
+F6：在地址栏、链接栏和浏览器窗口之间转换
+打开或关闭全屏模式 F11
+移动选择网页上的地址栏、“刷新”按钮、搜索框和项目 Tab
+查找页面上的字词或短语 Ctrl+F
+在新窗口中打开当前网页 Ctrl+N
+打印页面 Ctrl+P
+选择页面上的所有项目 Ctrl+A
+放大 Ctrl+加号
+缩小 Ctrl+减号
+缩放到 100% Ctrl+0
+导航快捷方式：
+转至主页 Alt+Home
+后退 Alt+向左键
+前进 Alt+向右键
+刷新页面 F5
+刷新页面和缓存Ctrl+F5
+停止下载页面 Esc
+Alt+F4是关闭页面
+收藏中心快捷方式：
+打开收藏夹 Ctrl+I
+以固定模式打开收藏夹 Ctrl+Shift+I
+整理收藏夹 Ctrl+B
+将当前页面添加至收藏夹 Ctrl+D
+打开提要 Ctrl+J
+以固定模式打开提要 Ctrl+Shift+J
+打开历史记录Ctrl+H
+以固定模式打开历史记录 Ctrl+Shift+H
+选项卡快捷方式：
+在新的后台选项卡中打开链接 鼠标中键或 Ctrl+鼠标左键
+在新的前台选项卡中打开链接 Ctrl+Shift+鼠标左键或 Ctrl+Shift+鼠标中键
+关闭选项卡（如果仅打开了一个选项卡则关闭窗口） 用鼠标中键单击选项卡或使用 Ctrl+W
+
+打开快速选项卡视图 Ctrl+Q
+打开新的选项卡 Ctrl+T
+查看打开的选项卡列表 Ctrl+Shift+Q
+切换到下一个选项卡 Ctrl+Tab
+切换到上一个选项卡 Ctrl+Shift+Tab
+关闭浏览器 Ctrl+W
+地址栏快捷方式：
+选择地址栏 Alt+D
+在地址栏中文本的开头和结尾分别添加“http://www.”和“.com” Ctrl+Enter
+在地址栏中文本的开头添加 "http://www."，在文本结尾添加指定的网址后缀* Ctrl+Shift+Enter
+在新的选项卡中打开在地址栏中键入的网址 Alt+Enter
+查看以前键入的地址列表 F4
+即时搜索框：
+选择即时搜索框 Ctrl+E
+查看搜索提供商列表 Ctrl+Down
+在新的选项卡中打开搜索结果 Alt+Enter
+查询计算机出厂日期：窗口+R  在弹出框内输入CMD  然后 在伪DOS系统下输入: WMIC  BIOS GET RELEASEDATE即可出现出厂日期。
