@@ -1,3 +1,0 @@
-
-lspci | grep -i nvidia               查看GPU型号
-sudo dpkg --list | grep nvidia-*     查看NVIDIA驱动版本
